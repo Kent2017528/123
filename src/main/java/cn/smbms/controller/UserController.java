@@ -136,4 +136,8 @@ public class UserController {
         int add = userService.add(user);
         return "redirect:/sys/user/query";
     }
+
+    public void test1(){
+        int z=8;
+    }
 }
