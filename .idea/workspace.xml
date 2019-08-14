@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="065a11f1-c8ab-4862-bbf0-25bff7fcf6a3" name="Default Changelist" comment="测试">
+    <list default="true" id="065a11f1-c8ab-4862-bbf0-25bff7fcf6a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,7 +38,20 @@
     <favorites_list name="smbmsOrderSystem" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/smbms/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/statics/js/useradd.js" />
         <option value="$PROJECT_DIR$/src/main/java/cn/smbms/service/user/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/smbms/service/user/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/smbms/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/statics/js/billmodify.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/billmodify.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/statics/js/billlist.js" />
@@ -111,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/smbms/controller/BillController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/billlist.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/billadd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/smbms/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -169,6 +182,11 @@
               <item name="smbmsOrderSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="smbmsOrderSystem" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="smbmsOrderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smbmsOrderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,7 +201,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/idea_workspace/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -376,7 +394,7 @@
       <workItem from="1565608405740" duration="10769000" />
       <workItem from="1565656656909" duration="2017000" />
       <workItem from="1565661853019" duration="22714000" />
-      <workItem from="1565756209723" duration="2575000" />
+      <workItem from="1565756209723" duration="4595000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1565756426583</created>
@@ -392,14 +410,29 @@
       <option name="project" value="LOCAL" />
       <updated>1565761247330</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1565762122813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565762122813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2">
+      <created>1565762198290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565762198290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63269000" />
+    <option name="totallyTimeSpent" value="65289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.22686376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,7 +474,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -843,18 +878,18 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/statics/js/billadd.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/smbms/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1959">
-          <caret line="117" column="38" selection-start-line="117" selection-start-column="38" selection-end-line="117" selection-end-column="38" />
+        <state relative-caret-position="500">
+          <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

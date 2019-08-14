@@ -139,6 +139,6 @@ public class UserController {
 
     public void test1(){
         int z=8;
-        int b=8;
+        int m=9;
     }
 }
