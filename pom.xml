@@ -45,7 +45,7 @@
     <spring-context.version>5.1.5.RELEASE</spring-context.version>
     <spring-beans.version>5.1.5.RELEASE</spring-beans.version>
     <spring-aop.version>5.1.5.RELEASE</spring-aop.version>
-    <spring-expression.version>5.1.5.RELEASE</spring-expression.version>
+    <spring-expression.version>5.2.21.RELEASE</spring-expression.version>
     <spring-jdbc.version>5.1.5.RELEASE</spring-jdbc.version>
     <spring-tx.version>5.1.5.RELEASE</spring-tx.version>
     <spring-web.version>5.1.5.RELEASE</spring-web.version>
