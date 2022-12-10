@@ -48,7 +48,7 @@
     <spring-expression.version>5.1.5.RELEASE</spring-expression.version>
     <spring-jdbc.version>5.1.5.RELEASE</spring-jdbc.version>
     <spring-tx.version>5.1.5.RELEASE</spring-tx.version>
-    <spring-web.version>5.1.5.RELEASE</spring-web.version>
+    <spring-web.version>6.0.0</spring-web.version>
     <spring-webmvc.version>5.1.5.RELEASE</spring-webmvc.version>
     <aspectj.version>1.5.3</aspectj.version>
     <aspectjweaver.version>1.8.13</aspectjweaver.version>
